@@ -35,7 +35,7 @@
 
 <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/spinning-3d-cube.gif" alt="Descripción del GIF" />
 
-![](./static/# spinning-3d-cube.gif)
+![](./static/spinning-3d-cube.gif)
 <br/>
 <br/>
 <br/>
