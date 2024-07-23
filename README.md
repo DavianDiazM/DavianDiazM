@@ -36,8 +36,6 @@
 <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/spinning-3d-cube.gif" alt="Descripción del GIF" width="40%" height="40%" />
 
 <br/>
-<br/>
-<br/>
 
 ## Skills
 
