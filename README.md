@@ -37,22 +37,6 @@
 <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/2b07f62987e987d4e53e84aa8b963b83.gif" alt="Descripción del GIF" width="40%" height="40%" />
 
 <br/>
-    <style>
-        table {
-            width: 80%;
-            margin: 0 auto;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-
     <table>
         <tr>
             <th>Frontend</th>
