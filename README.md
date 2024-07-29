@@ -14,20 +14,22 @@
 </p>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/davian-diaz-3134361bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="alsiam" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Adaviandiaz5%40gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white"
       alt="alsiam" />
   </a>
+  <!--
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
       alt="alsiam" />
   </a>
-  <a href="" target="_blank">
+-->
+  <a href="https://www.instagram.com/da_ddm_?igsh=YzljYTk1ODg3Zg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
       alt="alsiam" />
   </a>
