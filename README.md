@@ -49,7 +49,7 @@
 
   ## Skills
 
-  <table style="width: 80%; margin: 0 auto; border-collapse: collapse;">
+  <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <th style="border: 1px solid black; padding: 10px; text-align: center; background-color: #f2f2f2;">Frontend</th>
     </tr>
@@ -78,7 +78,7 @@
     </tr>
   </table>
 
-  <table>
+  <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <th>UI Frameworks</th>
     </tr>
@@ -99,7 +99,7 @@
     </tr>
   </table>
 
-  <table>
+  <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <th>Backend</th>
     </tr>
@@ -120,7 +120,7 @@
     </tr>
   </table>
 
-  <table>
+  <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <th>DataBase</th>
     </tr>
@@ -137,7 +137,7 @@
     </tr>
   </table>
 
-  <table>
+  <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
     <tr>
       <th>Misc</th>
     </tr>
