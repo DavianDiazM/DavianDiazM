@@ -40,7 +40,7 @@
 <h3 align="center">Hello, my name is Davian Diaz, I am a software engineer, I love the study of technology, web
   development and 3D.
   <br />
-  <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/cube-spinning.gif" alt="Descripción del GIF"
+  <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/realistic-3d-basic-shapes.jpg" alt="Descripción del GIF"
     width="40%" height="40%" />
 
   <br />
