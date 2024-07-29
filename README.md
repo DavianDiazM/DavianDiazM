@@ -37,6 +37,39 @@
 <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/2b07f62987e987d4e53e84aa8b963b83.gif" alt="Descripción del GIF" width="40%" height="40%" />
 
 <br/>
+    <style>
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+
+    <table>
+        <tr>
+            <th>Frontend</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
+                <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React">
+                <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+                <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=%23dcedf4" alt="Vue.js">
+                <img src="https://img.shields.io/badge/Three.js-%233C3C3D?style=for-the-badge&logo=threedotjs&logoColor=%23000000&labelColor=white" alt="Three.js">
+                <img src="https://img.shields.io/badge/WebGL-%23D81939?style=for-the-badge&logo=webgl&logoColor=%23990000&labelColor=white" alt="WebGL">
+            </td>
+        </tr>
+    </table>
 
 ## Skills
 | **Frontend** |
