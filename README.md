@@ -53,6 +53,11 @@
 - **Misc**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23646CFF&labelColor=white)
 
+| **Frontend** | **UI Frameworks** | **Backend** | **Databases** | **Misc** |
+|--------------|-------------------|-------------|---------------|----------|
+| !HTML | !React | !Node.js | !MySQL | !Git |
+| !CSS | !Vue.js | !Express | !PostgreSQL | !Docker |
+| !JavaScript | !Bootstrap | !Django | !MongoDB | !Linux |
 
 <!--
 **DavianDiazM/DavianDiazM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
