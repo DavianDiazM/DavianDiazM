@@ -48,28 +48,13 @@
   <br />
 
   ## Skills
-<style>
-  table {
-    width: 80%;
-    margin: 0 auto;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
 
-  <table>
+  <table style="width: 80%; margin: 0 auto; border-collapse: collapse;">
     <tr>
-      <th>Frontend</th>
+      <th style="border: 1px solid black; padding: 10px; text-align: center; background-color: #f2f2f2;">Frontend</th>
     </tr>
     <tr>
-      <td>
+      <td style="border: 1px solid black; padding: 10px; text-align: center;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img
