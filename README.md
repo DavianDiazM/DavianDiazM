@@ -41,7 +41,7 @@
   development and 3D.
   <br />
   <img src="https://github.com/DavianDiazM/DavianDiazM/blob/main/static/realistic-3d-basic-shapes.jpg" alt="Descripción del GIF"
-    width="40%" height="40%" />
+    width="100%" height="40%" />
 
   <br />
 
